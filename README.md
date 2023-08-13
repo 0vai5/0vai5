@@ -35,8 +35,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: I am Currently working as a freelancer on upwork.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-0vai5-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/0vai5/)
----
+- :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/0vai5/">
+    <img src='https://blog.academyoflearning.com/wp-content/uploads/2017/09/linkedin-gif.gif' alt="LinkedIn Badge" width="50px" target="_blank"/>
+  </a>
  <h1>Connect With Me</h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/0vai5/">
