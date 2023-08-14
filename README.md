@@ -52,6 +52,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src='https://th.bing.com/th/id/R.8967d993037b3608240346b4e46b86f9?rik=yVCPfI5GPslk0w&pid=ImgRaw&r=0' alt="LinkedIn Badge" width="50px" />
   </a>
 
+  <a href="https://wa.me/+923303458829/">
+    <img src='https://media.giphy.com/media/DRinNvjCXc5Iexx0CH/giphy-downsized-large.gif' alt="LinkedIn Badge" height="37.5px" width="50px" />
+  </a>
+
   <a href="https://instagram.com/0vai5">
     <img src='https://th.bing.com/th/id/R.a4e805ad085c1b1da7665f92293d559d?rik=ROKzin2zWDTyvg&pid=ImgRaw&r=0' alt="LinkedIn Badge" width="50px" />
   </a>
