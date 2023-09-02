@@ -56,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
 
   <a href="https://wa.me/+923303458829/">
-    <img src='https://media.giphy.com/media/DRinNvjCXc5Iexx0CH/giphy-downsized-large.gif' alt="LinkedIn Badge" height="37.5px" width="50px" />
+    <img src='https://th.bing.com/th/id/R.e120b93a1b3b0f7873ee1e6cf767bdad?rik=fKOqSTKrPiFdqw&pid=ImgRaw&r=0' alt="LinkedIn Badge" height="37.5px" width="50px" />
   </a>
 
   <a href="https://instagram.com/0vai5">
