@@ -44,23 +44,23 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <h1>Connect With Me</h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/0vai5/">
-    <img src='https://blog.academyoflearning.com/wp-content/uploads/2017/09/linkedin-gif.gif'alt="LinkedIn Badge" width="50px" height/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg'alt="LinkedIn Badge" width="50px" height/>
   </a>
 
   <a href="https://twitter.com/0vai5Raza">
-    <img src='https://cdn.dribbble.com/users/427761/screenshots/2828446/twitter.gif' alt="LinkedIn Badge" width="50px" />
+    <img src='https://static.vecteezy.com/system/resources/previews/018/930/745/original/twitter-logo-twitter-icon-transparent-free-free-png.png' alt="LinkedIn Badge" width="50px" />
   </a>
 
    <a href="https://www.facebook.com/ovaisraza121/">
-    <img src='https://th.bing.com/th/id/R.8967d993037b3608240346b4e46b86f9?rik=yVCPfI5GPslk0w&pid=ImgRaw&r=0' alt="LinkedIn Badge" width="50px" />
+    <img src='https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg' alt="LinkedIn Badge" height="50px" width="50px" />
   </a>
 
   <a href="https://wa.me/+923303458829/">
-    <img src='https://th.bing.com/th/id/R.e120b93a1b3b0f7873ee1e6cf767bdad?rik=fKOqSTKrPiFdqw&pid=ImgRaw&r=0' alt="LinkedIn Badge" height="37.5px" width="50px" />
+    <img src='https://static.vecteezy.com/system/resources/previews/018/819/295/non_2x/whatsapp-icon-transparent-free-png.png' alt="LinkedIn Badge" height="50px" width="50px" />
   </a>
 
   <a href="https://instagram.com/0vai5">
-    <img src='https://th.bing.com/th/id/R.a4e805ad085c1b1da7665f92293d559d?rik=ROKzin2zWDTyvg&pid=ImgRaw&r=0' alt="LinkedIn Badge" width="50px" />
+    <img src='https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png' alt="LinkedIn Badge" width="50px" />
   </a>
 </div>
 
@@ -80,6 +80,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailawind" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="tailwind" alt="express" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="tailwind" alt="express" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="tailwind" alt="express" width="40" height="40"/>&nbsp;
 
 </div>
 
