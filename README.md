@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 </h1>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: I’m working on JavaScript, ReactJS, FireBase, Bootstrap, TailWind CSS
+- :telescope: I’m working on JavaScript, NextJS, TailWind CSS, NodeJs, ExpressJS, and MongoDB.
 
-- :seedling: Exploring React Native, Java, NodeJs, ExpressJS, Python
+- :seedling: Exploring React Native
 
-- :zap: I am Currently working as a freelancer on upwork.
+- :zap: I am Currently working as a freelancer on Upwork.
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/0vai5/">
     <img src='https://blog.academyoflearning.com/wp-content/uploads/2017/09/linkedin-gif.gif' alt="LinkedIn Badge" width="50px" target="_blank"/>
