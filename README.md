@@ -1,97 +1,73 @@
-<h1 align= "center">
-  Hey There!!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shehbaz+Khanani!;" />
 </h1>
-<h3 align="center">I'm a full-stack developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 
-<!--
-**0vai5/0vai5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate software developer from Pakistan</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="header" align = "center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%"/>
-</div>
+<div align="center">
+ 
+ 🔭 I’m currently working on **ReactJS**
+ 
+ 🌱 I’m currently learning **React Native**
+
+💬 Ask me about **Node.js, Nextjs, React... or anything**
 
 
-
-<img src="https://komarev.com/ghpvc/?username=0vai5" >
-
----
-<h1>
-  About Me
-</h1>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-
-- :telescope: I’m working on JavaScript, NextJS, TailWind CSS, NodeJs, ExpressJS, and MongoDB.
-
-- :seedling: Exploring React Native
-
-- :zap: I am Currently working as a freelancer on Upwork.
-
-- :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/0vai5/">
-    <img src='https://blog.academyoflearning.com/wp-content/uploads/2017/09/linkedin-gif.gif' alt="LinkedIn Badge" width="50px" target="_blank"/>
+ </div>
+ 
+<div align="center"> 
+  <a href="rovais53@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
- <h1>Connect With Me</h1>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/0vai5/">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg'alt="LinkedIn Badge" width="50px" height/>
+  <a href="https://www.linkedin.com/in/0vai5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
-  <a href="https://twitter.com/0vai5Raza">
-    <img src='https://static.vecteezy.com/system/resources/previews/018/930/745/original/twitter-logo-twitter-icon-transparent-free-free-png.png' alt="LinkedIn Badge" width="50px" />
-  </a>
-
-   <a href="https://www.facebook.com/ovaisraza121/">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg' alt="LinkedIn Badge" height="50px" width="50px" />
-  </a>
-
-  <a href="https://wa.me/+923303458829/">
-    <img src='https://static.vecteezy.com/system/resources/previews/018/819/295/non_2x/whatsapp-icon-transparent-free-png.png' alt="LinkedIn Badge" height="50px" width="50px" />
-  </a>
-
-  <a href="https://instagram.com/0vai5">
-    <img src='https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png' alt="LinkedIn Badge" width="50px" />
+  <a href="http://ovaisraza.netlify.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailawind" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="tailwind" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="tailwind" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="tailwind" alt="express" width="40" height="40"/>&nbsp;
-
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,express,npm" /><br>
 </div>
 
----
+<br/>
+<hr/>
 
-### :fire: My Stats :
-![0vais Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=0vai5&show_icons=true&theme=radical)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vai5&layout=donut)
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0vai5&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=0vai5&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=0vai5&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
 
 
 
+<br/>
