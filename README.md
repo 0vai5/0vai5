@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **ReactJS**
  
- 🌱 I’m currently learning **React Native**
+ 🌱 I’m currently learning **Python & Web Scraping**
 
 💬 Ask me about **Node.js, Nextjs, React... or anything**
 
