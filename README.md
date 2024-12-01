@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **NextJS**
  
- 🌱 I’m currently learning **ReactNative, AWS, & Docker**
+ 🌱 I’m currently learning **PostgreSQL, AWS, & Docker**
 
 💬 Ask me about **Node.js, Nextjs, React... or anything**
 
