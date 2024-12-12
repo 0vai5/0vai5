@@ -1,4 +1,5 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=0vai5" />
+<img align="left" src="https://wakatime.com/badge/user/bc5d206c-0c30-4b76-925b-969fe55c64a1.svg" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ovais+Raza!;" />
