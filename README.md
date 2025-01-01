@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NextJS**
+ 🔭 I’m currently working on **MERN Stack**
  
- 🌱 I’m currently learning **PostgreSQL, AWS, & Docker**
+ 🌱 I’m currently learning **Docker, & Jest**
 
 💬 Ask me about **Node.js, Nextjs, React... or anything**
 
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/0vai5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="http://ovaisraza.netlify.app" target="_blank">
+  <a href="http://ovaisraza.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,netlify,redux,appwrite" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,python,express,firebase,mongodb,nextjs,express,vite,vercel,typescript,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,python,express,firebase,mongodb,nextjs,express,vite,vercel,typescript" /><br>
 </div>
 
 <br/>
