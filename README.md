@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **MERN Stack**
  
- 🌱 I’m currently learning **Docker, & Jest**
+ 🌱 I’m currently learning **Docker**
 
 💬 Ask me about **Node.js, Nextjs, React... or anything**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,netlify,redux,appwrite" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,netlify,redux,appwrite,docker" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,python,express,firebase,mongodb,nextjs,express,vite,vercel,typescript,jest,cpp" /><br>
 </div>
 
