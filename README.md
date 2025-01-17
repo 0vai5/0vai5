@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **MERN Stack**
  
- 🌱 I’m currently learning **Docker**
+ 🌱 I’m currently learning **Docker, Zustand**
 
 💬 Ask me about **Node.js, Nextjs, React... or anything**
 
