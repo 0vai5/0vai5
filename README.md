@@ -2,6 +2,8 @@
 <h3 align="center">Hello! I'm Ovais Raza from Pakistan, a passionate Web and Mobile App Developer with a few years of experience in the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0vai5&label=Profile%20views&color=0e75b6&style=flat" alt="0vai5" /> </p>
++<img align="right" src="https://wakatime.com/badge/
+user/bc5d206c-0c30-4b76-925b-969fe55c64a1.svg" />
 
 - 🔭 I’m currently working on **ReactJS, NodeJS**
 
@@ -30,4 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0vai5&show_icons=true&locale=en&layout=compact" alt="0vai5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0vai5&show_icons=true&locale=en" alt="0vai5" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0vai5&" alt="0vai5" />
