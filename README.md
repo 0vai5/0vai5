@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Softwares**
 
-- 👨‍💻 All of my projects are available at [Https://ovaisraza.vercel.app](Https://ovaisraza.vercel.app)
+- 👨‍💻 All of my projects are available at [ovais.tech](Https://ovais.tech)
 
 - 💬 Ask me about **ReactJS, NextJS, MERN Stack, etc.**
 
