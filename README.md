@@ -30,5 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0vai5&show_icons=true&locale=en&layout=compact" alt="0vai5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0vai5&show_icons=true&locale=en" alt="0vai5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0vai5&" alt="0vai5" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0vai5&" alt="0vai5" />
