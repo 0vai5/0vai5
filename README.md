@@ -2,7 +2,7 @@
 <h3 align="center">Hello! I'm Ovais Raza from Pakistan, a passionate Web and Mobile App Developer with a few years of experience in the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0vai5&label=Profile%20views&color=0e75b6&style=flat" alt="0vai5" /> </p>
-+<img align="right" src="https://wakatime.com/badge/
+<img align="right" src="https://wakatime.com/badge/
 user/bc5d206c-0c30-4b76-925b-969fe55c64a1.svg" />
 
 - 🔭 I’m currently working on **ReactJS, NodeJS**
