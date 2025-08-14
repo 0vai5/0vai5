@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **ReactJS, NodeJS**
 
-- 🌱 I’m currently learning **Docker, and PostgreSQL**
+- 🌱 I’m currently learning **Docker, and PostgreSQL, AWS**
 
 - 👯 I’m looking to collaborate on **Open Source Softwares**
 
@@ -250,6 +250,11 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/zustand/zustand-original.svg"
         alt="Zustand" width="40" height="40" />
+    </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        alt="AWS" width="40" height="40" />
     </a>
 </p>
 
