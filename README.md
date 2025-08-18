@@ -256,6 +256,11 @@
         src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         alt="AWS" width="40" height="40" />
     </a>
+    <a href="https://clerk.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=png"
+        alt="Clerk" width="40" height="40" />
+    </a>
 </p>
 
 <p>
