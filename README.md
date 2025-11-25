@@ -216,11 +216,6 @@
     <a href="https://lucide.dev/" target="_blank" rel="noreferrer">
       <img src="https://lucide.dev/logo.dark.svg" alt="Lucide React" width="40" height="40" />
     </a>
-    <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png"
-        alt="Lucide React" width="40" height="40" />
-    </a>
     <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
       <img
         src="https://appexchange.salesforce.com/image_host/2b53bb52-3256-4cdb-860b-cbe896427aeb.png"
@@ -260,6 +255,11 @@
       <img
         src="https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=png"
         alt="Clerk" width="40" height="40" />
+    </a>
+    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg"
+        alt="Prisma" width="40" height="40" />
     </a>
 </p>
 
